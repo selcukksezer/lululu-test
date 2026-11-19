@@ -1,0 +1,35 @@
+{
+    "name": "LÜLÜLÜ",
+    "short_name": "LÜLÜLÜ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#121826",
+    "theme_color": "#121826",
+    "description": "LÜLÜLÜ — Böcekleri birleştir, evrimleştir! Suika tarzı birleştirme oyunu ve 11 arcade modu. / Merge the cockroaches, evolve them all! A Suika-style merge game with 11 arcade modes.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
